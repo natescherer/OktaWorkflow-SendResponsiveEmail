@@ -45,4 +45,4 @@ This project is licensed under The MIT License - see [LICENSE](LICENSE) for deta
 
 ## Acknowledgements
 
-[leemunroe](https://github.com/leemunroe/responsive-html-email-template) - The core email formatting of PoshEmail is built on leemunroe's "Really Simple Free Responsive HTML Email Template".
+[leemunroe](https://github.com/leemunroe/responsive-html-email-template) - The core email formatting of this workflow is built on leemunroe's "Really Simple Free Responsive HTML Email Template".
