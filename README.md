@@ -8,12 +8,13 @@ This project is unofficial and is neither developed nor supported by Okta.
 
 To install this workflow, follow these steps:
 
+1. Download the latest release from [releases](releases)
 1. Create a new folder in Okta Workflows
-2. Import the `sendResponsiveEmail.folder` file into the new folder
-3. Open each flow in the folder and connect the app actions to the pre-configured actions for your environment (see [here](https://help.okta.com/en/prod/Content/Topics/Workflows/workflow-connect-your-applications.htm) if you have not yet configured connections)
-4. Enable all flows
-5. Test
-6. Once the testing is complete, you can remove the `Send Test Email` flow, as it is just to demostrate the process. The `Build Responsive Email` flow can be called from whatever flows you wish.
+1. Import the `sendResponsiveEmail.folder` file into the new folder
+1. Open each flow in the folder and connect the app actions to the pre-configured actions for your environment (see [here](https://help.okta.com/en/prod/Content/Topics/Workflows/workflow-connect-your-applications.htm) if you have not yet configured connections)
+1. Enable all flows
+1. Test
+1. Once the testing is complete, you can remove the `Send Test Email` flow, as it is just to demostrate the process. The `Build Responsive Email` flow can be called from whatever flows you wish.
 
 ## Customizing
 
